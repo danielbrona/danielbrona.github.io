@@ -175,7 +175,7 @@ header {
   /* Image displayed on mobile devices instead of video, to reduce data consumption and waiting time.
   It's also the image shown if the video doesn't load for some reason.
   Change this image with the first frame of your video, you can make and use a screenshot of it */
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("http://placehold.it/1920x1080/698093/698093") no-repeat center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("http://placehold.it/1920x1080/698093/698093.jpg") no-repeat center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -374,7 +374,7 @@ header {
 #me-as-an-it-student-section {
   padding-top: 70px;
   padding-bottom: 90px;
-  background: linear-gradient(rgba(17, 53, 71, 0.7), rgba(17, 53, 71, 0.7)), url("https://placehold.it/2200x1243/e4e4ff/e4e4ff");
+  background: linear-gradient(rgba(17, 53, 71, 0.7), rgba(17, 53, 71, 0.7)), url("https://placehold.it/2200x1243/e4e4ff/e4e4ff.jpg");
   background-size: cover;
   background-attachment: fixed; }
   #free-trial-section h1 {
